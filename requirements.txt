@@ -1,0 +1,7 @@
+gunicorn
+Flask
+requests
+numpy
+opencv-python
+openvino
+SpeechRecognition
