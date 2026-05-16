@@ -12,7 +12,7 @@ app = Flask(__name__)
 # ------------------------------
 # Gemini API Setup
 # ------------------------------
-API_KEY = "" #enter your API key
+API_KEY = "    " #enter your API key
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={API_KEY}"
 
 def build_text_part(text):
