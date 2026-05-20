@@ -111,6 +111,9 @@ AI-Learning-Assistant/
 ├── requirements.txt           # Python dependencies
 └── README.md                  # Project documentation
 
+
+```
+
 ## ▶ How to Run (Basic)
 
 Install dependencies:
@@ -118,7 +121,6 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 ```
-
 Set the Gemini API key (for example, by replacing `API_KEY` in `app.py` or loading it from the environment).
 
 Start the Flask app:
